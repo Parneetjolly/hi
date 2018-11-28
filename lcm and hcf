@@ -1,0 +1,22 @@
+#include <stdio.h>
+int main()
+// doubt haii
+{
+    int a,b;
+    float c,m;
+    printf("enter 2 numbers:");
+    scanf(" %d%d",&a ,&b);
+
+    if ( c%a && c%b )
+    {
+        printf("lcm is %f",c);
+
+    }
+
+    if ( a/m && b/m)
+    {
+        printf("hcf is %f",m);
+
+    }
+    return 0;
+}
